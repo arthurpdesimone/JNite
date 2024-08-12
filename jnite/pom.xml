@@ -4,6 +4,10 @@
     <groupId>br.com.pendragon</groupId>
     <artifactId>jnite</artifactId>
     <version>0.0.1</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>fem</module>
+    </modules>
 
     <properties>
         <compiler-plugin.version>3.13.0</compiler-plugin.version>
